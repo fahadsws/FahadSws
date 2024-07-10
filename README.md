@@ -10,7 +10,9 @@ Hello! I'm a passionate React developer with expertise in both frontend and back
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadsws&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=fahadsws&label=Profile%20Views&pretty=false" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fahadsws&icon=0&color=0)](https://visitcount.itsvg.in)
