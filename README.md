@@ -9,7 +9,7 @@ Hello! I'm a passionate React developer with expertise in both frontend and back
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fahadsws&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadsws&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 I am Not a Developer
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=fahadsws&label=Profile%20Views&pretty=false" />
 </a>
